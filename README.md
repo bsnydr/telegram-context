@@ -1,5 +1,7 @@
 # telegram-context
 
+[![tests](https://github.com/bsnydr/telegram-context/actions/workflows/tests.yml/badge.svg)](https://github.com/bsnydr/telegram-context/actions/workflows/tests.yml)
+
 Forward Telegram messages to a private bot, add a short tagged note, and get one markdown file written to a folder Claude Code can read. Cross-platform (macOS and Windows).
 
 ## Why this exists
